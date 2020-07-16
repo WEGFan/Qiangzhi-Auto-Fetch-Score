@@ -1,0 +1,4 @@
+pyquery
+py-getch
+requests
+win10toast; platform_system == 'Windows' and platform_release == '10'
